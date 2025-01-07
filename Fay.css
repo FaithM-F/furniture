@@ -1,0 +1,53 @@
+.sec11{
+    border-style: dashed;
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(14, 170, 27);
+}
+
+.sec12{
+
+    border-style: double;
+    padding: 20px;
+    margin: 30px;
+    background-color: rgb(218, 30, 118);
+}
+
+.sec13 img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    /* position: absolute; */
+    float: right;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.flexbox div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    
+
+}
+.flexbox{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.flexname div{
+    background-color: coral;
+    width: 150px;
+    height: 200px;
+}
+
+.flexname{
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    align-items: stretch;
+}

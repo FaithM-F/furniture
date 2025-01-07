@@ -1,0 +1,23 @@
+.p5 p{
+    padding: 50px;
+    margin: 30px;
+    /* background-color: blueviolet; */
+    border-style: dashed;
+}
+
+.secc{
+    height: 100vh;
+    background-color: red;
+    position: relative;
+
+}
+
+.secc img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    /* position: absolute; */
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}

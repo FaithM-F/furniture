@@ -1,0 +1,77 @@
+/* h1{
+    color: blue;
+}
+p{
+    color: white;
+}
+.p2{
+    color: green;
+}
+section{
+    background: red;
+}
+
+.p2, .p3{
+    font-size: 30;
+}
+.sec1 > p{
+    font-size: 30px;
+}
+*{
+    font-weight: bold;
+} */
+
+
+.sec1 p{
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: normal;
+    text-transform: capitalize;
+    text-indent: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.sec2 ul li{
+    list-style: none;
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: normal;
+    text-transform: capitalize;
+    text-indent: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    
+}
+
+.sec2 a{
+    color: blueviolet;
+    text-decoration: none;
+
+}
+
+.sec2 p{
+    font-size: 20px;
+    color: rgb(207, 90, 125);
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: normal;
+    text-transform: capitalize;
+    text-indent: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+.sec3 p{
+    font-size: 20px;
+    color: rgb(43, 206, 84);
+    font-weight: bold;
+    font-style: oblique;
+    letter-spacing: normal;
+    text-transform: capitalize;
+    text-indent: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+
+}
+
