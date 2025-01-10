@@ -139,10 +139,8 @@ h3{
 .clients div img{
     border-radius: 100%;
 }
-form{
-    
-}
-.send{
+
+#send{
     border: none; 
     padding: 20px; 
     width: 200px; 
@@ -150,7 +148,7 @@ form{
     background-color: blue;
     margin-top: 20px;
 }
-.send:hover{
+#send:hover{
     color: blue;
     background-color: white;
     border: solid 1px blue;
@@ -161,5 +159,22 @@ form{
     margin-left: 20px;
     margin-right: 20px;
 }
+footer{
+    background-color: rgb(8, 8, 56);
+    padding: 50px;
+}
+footer .foot{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.Icons{
+    display: flex;
+    gap: 30px;
+    background-color: white;
+    justify-content: center;
     
+}
+
+
     
